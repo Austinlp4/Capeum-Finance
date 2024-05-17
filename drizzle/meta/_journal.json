@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715804501820,
+      "tag": "0000_married_bloodstrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1715807870639,
+      "tag": "0001_woozy_nocturne",
+      "breakpoints": true
+    }
+  ]
+}

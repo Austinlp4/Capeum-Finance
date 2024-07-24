@@ -71,7 +71,7 @@ export const AccountForm = ({
                         </FormItem>
                     )}
                 />
-                <Button className="w-full" disabled={disabled}>
+                <Button className="w-full bg-emerald-600 hover:bg-emerald-500/80" disabled={disabled}>
                     {
                         id 
                         ? 

@@ -15,6 +15,20 @@
       "when": 1715807870639,
       "tag": "0001_woozy_nocturne",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1720195789191,
+      "tag": "0002_magical_corsair",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1720461305841,
+      "tag": "0003_high_lizard",
+      "breakpoints": true
     }
   ]
 }

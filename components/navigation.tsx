@@ -55,9 +55,9 @@ export const Navigation = () => {
                         variant={'outline'}
                         size={'sm'}
                         className={
-                            `font-normal bg-amber-300/30 hover:bg-white-200/80 hover:text-amber-800 
+                            `font-normal bg-emerald-300/30 hover:bg-white-200/80 hover:text-emerald-800 
                             border-none focus-visible:ring-offset-0 focus-visible:ring-transparent outline-none
-                            text-amber-800 focus:bg-amber-200/30 transition`
+                            text-emerald-800 focus:bg-emerald-200/30 transition`
                         }
                     >
                         <Menu className='size-4' />
@@ -82,7 +82,7 @@ export const Navigation = () => {
     }
 
     return (
-        <nav className="hidden lg:flex items-center gap-x-2 overflow-x-auto">
+        <nav className="hidden lg:flex items-center gap-x-2 overflow-x-auto bg-white/10 p-2 rounded-md backdrop-blur-xl drop-shadow-lg">
             {routes.map((route) => (
                 <NavButton 
                     key={route.href}
